@@ -1,0 +1,12 @@
+{
+  "spatial": 1,
+  "name": "Коран",
+  "description": "Мединский мушаф: 604 страницы, перевод смыслов Кулиева, аудио чтецов и хифз. Нажмите E, чтобы открыть.",
+  "form": "book",
+  "size": { "width": 1.2, "height": 0.882 },
+  "viewport": 1360,
+  "theme": { "primary": "#e2b089", "glow": "#d9a441", "background": "#f4efe6" },
+  "cover": "spatial-cover.jpg",
+  "embed": "./?spatial",
+  "book": { "title": "الْقُرْآنُ الْكَرِيمُ", "author": "Мединский мушаф", "layout": "spread", "direction": "rtl" }
+}
